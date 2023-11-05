@@ -1,4 +1,4 @@
-# What They Say (O Que Eles Disseram)
+# chrome extension(O Que Eles Disseram)
 
 [![Build Status](https://travis-ci.org/3jacksonsmith/what_they_say.svg?branch=master)](https://travis-ci.org/3jacksonsmith/what_they_say)
 
